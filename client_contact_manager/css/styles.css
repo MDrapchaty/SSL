@@ -1,0 +1,58 @@
+body{
+	background-color: #DEE3E9;
+	font: Arial;
+}
+
+#sub{
+	width: 20%;
+	height: 2rem;
+	margin-top: 1rem;
+	background-color: blue;
+	color: yellow;
+}
+
+#sub:hover{
+	color: blue;
+	background-color: yellow;
+}
+
+form{
+	margin-left: 5%;
+}
+
+.message{
+	color: red;
+	background-color: brown;
+	text-align: center;
+	font-size: 2em;
+}
+h1{
+	font-size: 2.7em;
+	text-decoration: underline;
+}
+
+h1, h4{
+	margin-left: 5%;
+}
+
+.client{
+	float: left;
+	margin: 1.1em ;
+	border: 2px solid red;
+	background-color: yellow;
+	padding: 4px;
+}
+
+.client:hover{
+	background-color: #D6CC58;
+}
+
+#delete:hover{
+	background-color:red; 
+}
+
+
+
+.buttonr:hover{
+ 	background-color:blue;
+ }

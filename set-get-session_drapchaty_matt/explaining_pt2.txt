@@ -1,0 +1,5 @@
+Explaining Part 2-
+
+The session saves the information on the server side, so that even when the user comes back, much like a cookie, it stores the info. The only difference is that the session is stored on the server side and not on the user side like the cookie is typically stored. However if you open a private or incognito browser the sessions and cookies are not allowed to work and the code to echo the stored sessions will no longer work.  
+
+Note- I could not get the GET to work as required to “set” the session as it seems to be contradictory to me since I am setting them in the “session.php” file as required in the instructions. 
